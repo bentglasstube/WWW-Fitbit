@@ -1,0 +1,7 @@
+/WWW-Fitbit-*
+/.build
+/_build*
+/Build
+MYMETA.*
+!META.json
+/.prove
